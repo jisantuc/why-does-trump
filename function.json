@@ -1,0 +1,8 @@
+{
+    "name": "whyDoesTrump",
+    "description": "Tweet hard questions about Trump",
+    "runtime": "python",
+    "memory": 128,
+    "timeout": 5,
+    "role": "arn:aws:iam::253412657346:role/alexa"
+}
